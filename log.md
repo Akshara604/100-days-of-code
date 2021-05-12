@@ -7,6 +7,6 @@
 
 **Thoughts:** I am very lazy to commit to anything. But I have taken a first step and started this challenge. I am confident that I would commit to this and improve.
 
-**Link to work:** [youTube channel name generator](http://www.example.com)
+**Link to work:** [youTube channel name generator](https://github.com/Akshara604/youTubeChannelNameGenerator)
 
 
