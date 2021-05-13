@@ -9,4 +9,11 @@
 
 **Link to work:** [youTube channel name generator](https://github.com/Akshara604/youTubeChannelNameGenerator)
 
+### Day 2: May 13, 2021
 
+
+**Today's Progress**: Solved python practice problems in HackerRank. Also refactored my code in one of my projects.
+
+**Thoughts:** Today was a bit slow than yesterday. But managed to do some code atleast.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1392873186341974020)
