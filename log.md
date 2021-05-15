@@ -17,3 +17,12 @@
 **Thoughts:** Today was a bit slow than yesterday. But managed to do some code atleast.
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1392873186341974020)
+
+### Day 3: May 14, 2021
+
+
+**Today's Progress**: Solved python problems using loop.
+
+**Thoughts:** Was not able to code yesterday. So, adding one more day to the list. Today my pace was a little slow. Should increase my pace tomorrow.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1393592149535379456)
