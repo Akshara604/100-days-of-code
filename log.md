@@ -35,3 +35,12 @@
 **Thoughts:** Excited to start javascript.
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1393969165904465921)
+
+### Day 5: May 17, 2021
+
+
+**Today's Progress**: solved challenges with strings, string slicing and casing concepts in Javascript.
+
+**Thoughts:** I think today I have improved a bit in solving challenges on my own. Hoping to start a small project soon.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1394296989060243458)
