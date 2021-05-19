@@ -44,3 +44,21 @@
 **Thoughts:** I think today I have improved a bit in solving challenges on my own. Hoping to start a small project soon.
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1394296989060243458)
+
+### Day 6: May 18, 2021
+
+
+**Today's Progress**: practiced functions in Javascript.
+
+**Thoughts:** Today was just me trying to write basic functions in karel IDE.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1394691894089707522)
+
+### Day 7: May 19, 2021
+
+
+**Today's Progress**: Learnt and practiced some more in javascript functions.
+
+**Thoughts:** Tried coding patterns in Karel IDE .
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1395039743008669704)
