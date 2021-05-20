@@ -62,3 +62,12 @@
 **Thoughts:** Tried coding patterns in Karel IDE .
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1395039743008669704)
+
+### Day 8: May 20, 2021
+
+
+**Today's Progress**: Completed functions and IF-Else loop in javascript.
+
+**Thoughts:** Tried solving a few basic problems such as BMI calculator, random number generator, program to find leap year.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1395394667949170689)
