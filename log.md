@@ -71,3 +71,12 @@
 **Thoughts:** Tried solving a few basic problems such as BMI calculator, random number generator, program to find leap year.
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1395394667949170689)
+
+### Day 9: May 22, 2021
+
+
+**Today's Progress**: Started arrays in javascript. Also started working on one of my projects.
+
+**Thoughts:** Really excited to start my first major project.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1396119125475266563)
