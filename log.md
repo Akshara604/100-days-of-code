@@ -80,3 +80,30 @@
 **Thoughts:** Really excited to start my first major project.
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1396119125475266563)
+
+### Day 10: May 23, 2021
+
+
+**Today's Progress**: Arrays and for and while loop in javascript.
+
+**Thoughts:** solved few problems using basic arrays and for and while loops in javascript.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1396482743119142913)
+
+### Day 11: May 24, 2021
+
+
+**Today's Progress**: Further practiced arrays and conditional statements.
+
+**Thoughts:** oJust tried a few problems on conditional statements and arrays .
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1396854582320369667)
+
+### Day 12: May 25, 2021
+
+
+**Today's Progress**: started with document object model.
+
+**Thoughts:** Didn't make much progress . just started with document object model.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1397209195536130062)
