@@ -107,3 +107,13 @@
 **Thoughts:** Didn't make much progress . just started with document object model.
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1397209195536130062)
+
+### Day 13: May 26, 2021
+
+
+**Today's Progress**: Learning to use javascript in websites.
+
+**Thoughts:** just started using js in websites.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1397567835258294277)
+
