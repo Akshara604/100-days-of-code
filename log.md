@@ -117,3 +117,12 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1397567835258294277)
 
+### Day 14: May 27, 2021
+
+
+**Today's Progress**: Practiced python in kaggle.
+
+**Thoughts:** I like python a lot. Mainly because it boosts my confidence that I can code.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1397939040633061379)
+
