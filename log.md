@@ -144,7 +144,7 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1398663588160540677)
 
-### Day 17: May 28, 2021
+### Day 17: May 30, 2021
 
 
 **Today's Progress**: For-loops in python.
