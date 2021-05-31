@@ -126,3 +126,30 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1397939040633061379)
 
+### Day 15: May 28, 2021
+
+
+**Today's Progress**: Lists and tupples in python.
+
+**Thoughts:** Enjoyed learning and working with lists in python in kaggle.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1398301194603220992)
+
+### Day 16: May 29, 2021
+
+
+**Today's Progress**: Today was me building mini-games using conditional statements and lists in python.
+
+**Thoughts:** Today was more productive.Was able to think and implement the logic for the mini-games myself.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1398663588160540677)
+
+### Day 17: May 28, 2021
+
+
+**Today's Progress**: For-loops in python.
+
+**Thoughts:** Took a little bit of help from the solution, nut overall was able to solve myself.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1399034084395868166)
+
