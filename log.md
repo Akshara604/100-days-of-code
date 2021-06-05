@@ -153,3 +153,39 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1399034084395868166)
 
+### Day 18: June 01, 2021
+
+
+**Today's Progress**: Solved C probelems in Hackerrank.
+
+**Thoughts:** Took a break yesterday.solved basic C problems. Which were pretty easy.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1399745969269338112)
+
+### Day 19: June 02, 2021
+
+
+**Today's Progress**: Practised html and css in codepen.Tried animate feauture.
+
+**Thoughts:** It's very simple.But didn't turn out as expected should work on it.
+
+**Link to work:** [My pen](https://codepen.io/akshara604/pen/GRWQMVp)
+
+### Day 20: June 04, 2021
+
+
+**Today's Progress**: Today too practiced html and css.
+
+**Thoughts:** Was really tired.But didn't want to break the cycle, so did this.
+
+**Link to work:** [My pen](https://codepen.io/akshara604/pen/oNZqVgm)
+
+### Day 21: June 05, 2021
+
+
+**Today's Progress**: Solved few python problems in HackerRank.
+
+**Thoughts:** Solved a few python problems.Have to increase my problem solving skills more.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1401175465180549120)
+
