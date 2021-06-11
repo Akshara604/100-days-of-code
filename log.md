@@ -189,3 +189,30 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1401175465180549120)
 
+### Day 22: June 07, 2021
+
+
+**Today's Progress**: Solving C problems.
+
+**Thoughts:** Solving codechef youtube practice problems non-rated contest in C.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1401923951333314567)
+
+### Day 23: June 08, 2021
+
+
+**Today's Progress**: Solving C problems.
+
+**Thoughts:** Same codechef contest and few random problems in C and was more efficient than yesterday.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1402285690356867077)
+
+### Day 24: June 09, 2021
+
+
+**Today's Progress**: Solving C problems.
+
+**Thoughts:** Solving random  problems in C.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1402649768929628163)
+
