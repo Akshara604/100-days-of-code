@@ -216,3 +216,21 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1402649768929628163)
 
+### Day 25: June 11, 2021
+
+
+**Today's Progress**: Took a break yesterday. Solving C problems in code chef.
+
+**Thoughts:** Solving problems in C. youTube practice problems contest is really boosting my confidence.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1403374184877629441)
+
+### Day 26: June 12, 2021
+
+
+**Today's Progress**: Solving C problems in code chef and HackerRank.
+
+**Thoughts:** Made it to 3 stars in C in HackerRank , really proud.Have to learn more concepts now.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1403717578304856065)
+
