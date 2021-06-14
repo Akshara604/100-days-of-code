@@ -234,3 +234,14 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1403717578304856065)
 
+### Day 27: June 13, 2021
+
+
+**Today's Progress**: Solving C problems using string concepts.
+
+**Thoughts:** Just solving problems using strings concept in C.Learnt two new concepts today.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1404098039627665412)
+
+
+
