@@ -243,5 +243,50 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1404098039627665412)
 
+### Day 28: June 15, 2021
+
+
+**Today's Progress**: Solving C problems again.
+
+**Thoughts:** Took a break yesterday.A little bit rusty but managed to solve a few problems.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1404819161637736458)
+
+### Day 29: June 16, 2021
+
+
+**Today's Progress**: Solving C problems and revisting html and css
+
+**Thoughts:** practicing concepts like arrays which I need to perfect.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1405185579172565005)
+
+### Day 30: June 18, 2021
+
+
+**Today's Progress**:  html and css.
+
+**Thoughts:** Have to design a webpage for our project.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1405923210625880064)
+
+### Day 31: June 20, 2021
+
+
+**Today's Progress**:  html and css and bootsrap.
+
+**Thoughts:** Started work on my design.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1406629661589733389)
+
+### Day 32: June 22, 2021
+
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** [my tweet]()
+
 
 
