@@ -273,7 +273,7 @@
 ### Day 31: June 20, 2021
 
 
-**Today's Progress**:  html and css and bootsrap.
+**Today's Progress**:  html and css and bootstrap.
 
 **Thoughts:** Started work on my design.
 
@@ -282,11 +282,65 @@
 ### Day 32: June 22, 2021
 
 
-**Today's Progress**:  
+**Today's Progress**: Solving practice problems in code chef using C.Designing webpage using html and css 
 
-**Thoughts:** 
+**Thoughts:** Was able to solve a few problems. felt good.
 
-**Link to work:** [my tweet]()
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1407357264109785089)
+
+### Day 33: June 23, 2021
+
+
+**Today's Progress**: Html and css 
+
+**Thoughts:** today , didn't get much work done but wrote a few lines of code for the asia web page.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1407729501723709440)
+
+### Day 34: June 24, 2021
+
+
+**Today's Progress**: Html and css.Added images and tried using css to change the style of hr tag. 
+
+**Thoughts:** Changing the hr style was a disaster, should perfect it. Added a favicon logo for the page.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1408084091199623175)
+
+### Day 35: June 26, 2021
+
+
+**Today's Progress**: Functions in C
+
+**Thoughts:** Solved problems using functions concept in C.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1408808536029552661)
+
+### Day 36: June 28, 2021
+
+
+**Today's Progress**: Solved few problems in codechef
+
+**Thoughts:** solved a few problems.Should focus on more advanced topics in C.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1409529312017936387)
+
+### Day 37: June 29, 2021
+
+
+**Today's Progress**: Solved few problems in HackerRank.
+
+**Thoughts:** Today I tried solving problems using C++ , made it to three stars.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1409895470604849153)
+
+### Day 38: June 30, 2021
+
+
+**Today's Progress**: Solving problems using C language.
+
+**Thoughts:** Solving problems in C language in SRM eLAB.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1410258544234930189)
 
 
 
