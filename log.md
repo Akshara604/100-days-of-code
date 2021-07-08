@@ -342,5 +342,60 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1410258544234930189)
 
+### Day 39: July 01, 2021
+
+
+**Today's Progress**: Same as yesterday.Solving problems using C language.
+
+**Thoughts:** Solving problems in C language in SRM eLAB.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1410619607807795200)
+
+### Day 40: July 02, 2021
+
+
+**Today's Progress**: Solving practice problems in code chef.
+
+**Thoughts:** Solving the basic level problems in code chef is really helping me to implement the concepts I have learnt.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1410989521492004865)
+
+### Day 41: July 04, 2021
+
+
+**Today's Progress**: Solving practice problems in C.
+
+**Thoughts:** Solving problems using C in srm eLAB.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1411726537007636480)
+
+### Day 42: July 05, 2021
+
+
+**Today's Progress**: Same as yesterday.Solving practice problems in C.
+
+**Thoughts:** Solving problems using C in srm eLAB.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1412069905948495876)
+
+
+### Day 43: July 07, 2021
+
+
+**Today's Progress**: Took a break and back at solving problems.
+
+**Thoughts:** Solving problems using C in srm eLAB and code chef.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1412785768481779716)
+
+### Day 44: July 08, 2021
+
+
+**Today's Progress**: After, so long finally made the game that I had in my mind.Just used the concepts I had learnt till now.
+
+**Thoughts:** Only used two characters for now.Planning to improve as I learn more concepts.
+
+**Link to work:** [my work]()
+
 
 
