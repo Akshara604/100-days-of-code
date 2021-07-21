@@ -397,5 +397,68 @@
 
 **Link to work:** [my work](https://github.com/Akshara604/avengers_themed_word_game.git) 
 
+### Day 45: July 10, 2021
+
+
+**Today's Progress**: Back, at solving problems for cp today.
+
+**Thoughts:** Practicing problems in code chef . I am getting better day by day.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1413884063627177985) 
+
+### Day 46: July 12, 2021
+
+
+**Today's Progress**: Solving problems in codechef.
+
+**Thoughts:** Good progress.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1414607606744698882) 
+
+### Day 47: July 14, 2021
+
+
+**Today's Progress**: Started solving problems in codeforces.
+
+**Thoughts:** Today I tried solving a problem in codeforces.Failed but will try to improve.Also learning pointers.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1415314397505884161) 
+
+### Day 48: July 16, 2021
+
+
+**Today's Progress**: Back at solving problems and switching from C to C++.
+
+**Thoughts:** I am trying to switch from C to C++
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1416057948405526533)
+
+### Day 49: July 17, 2021
+
+
+**Today's Progress**: Solved a few problems in HackerRank
+
+**Thoughts:** Clearing strings concept in C++.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1416436955995283456)
+
+### Day 50: July 19, 2021
+
+
+**Today's Progress**: Starting a new web dev project.
+
+**Thoughts:** Today was spent in revising basic html and css.Implementing it in my project.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1417144741582438400)
+
+### Day 51: July 20, 2021
+
+
+**Today's Progress**: Did some coding for my web dev project.
+
+**Thoughts:** Not much progress today but did manage to code a little bit for my web dev project.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1417509063177375749)
+
 
 
