@@ -460,5 +460,78 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1417509063177375749)
 
+### Day 52: July 22, 2021
+
+
+**Today's Progress**: Solved some basic problems in codechef.
+
+**Thoughts:** Solved some basic problem in code chef need to practice more.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1418234884359786496)
+
+### Day 53: July 24, 2021
+
+
+**Today's Progress**: Solved few problems in codechef.
+
+**Thoughts:** Resumed solving problems in codechef.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1418957113351712772)
+
+### Day 54: July 25, 2021
+
+
+**Today's Progress**: Solved few problems in codechef and started a new mini-project using python.
+
+**Thoughts:** solved problems in codechef learning new concepts in python for my mini-project idea.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1419320141737725960)
+
+
+### Day 55: July 27, 2021
+
+
+**Today's Progress**: Finished my mini web development project.Tried using flexbox.Also, practised git commands.
+
+**Thoughts:** Today I worked on a mini-webpage using flex-box concept.
+
+**Link to work:** [my webpage](https://akshara604.github.io/french-expressions-using-flex-box/)
+
+### Day 56: July 29, 2021
+
+
+**Today's Progress**: Started working a new webpage.
+
+**Thoughts:** Have this webpage idea but also need to learn new frameworks like django.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1420768043710377994)
+
+### Day 57: July 30, 2021
+
+
+**Today's Progress**: Started learning django. Tried to display "hello world" and failed.
+
+**Thoughts:** Need to figure out where my code went wrong.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1421131924492324864)
+
+### Day 58: July 31, 2021
+
+
+**Today's Progress**: Started doing my first front-end mentor challenge.
+
+**Thoughts:** Completed basic layout today.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1421490813893177346)
+
+### Day 59: Aug 02, 2021
+
+
+**Today's Progress**: Trying to learn django using the documentation. Still figuring out the front-end mentor challenge.
+
+**Thoughts:** still not able to display "hello world".
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1422220525527437314)
+
 
 
