@@ -533,5 +533,105 @@
 
 **Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1422220525527437314)
 
+### Day 60: Aug 04, 2021
+
+
+**Today's Progress**: Successfully displayed "Hello world" using django.
+
+**Thoughts:** Took a while but figured it out.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1422945315028537346)
+
+### Day 61: Aug 06, 2021
+
+
+**Today's Progress**: Solved few problems in codechef 
+
+**Thoughts:** Solved some problems.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1423667198048960515)
+
+### Day 62: Aug 08, 2021
+
+
+**Today's Progress**: Solved few problems in codechef 
+
+**Thoughts:** Solved some problems.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1424395884129701889)
+
+### Day 63: Aug 09, 2021
+
+
+**Today's Progress**: Improved certain features in word_based game with python
+
+**Thoughts:** Learnt some new concepts in python.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1424752720326500352)
+
+### Day 64: Aug 11, 2021
+
+
+**Today's Progress**: Solved few problems in codechef 
+
+**Thoughts:** Solved some problems.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1425483888931966976)
+
+### Day 65: Aug 13, 2021
+
+
+**Today's Progress**: Solved few problems in codechef 
+
+**Thoughts:** Solved some problems.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1426208636079009792)
+
+### Day 66: Aug 15, 2021
+
+
+**Today's Progress**: Solved few problems in HackerRank 
+
+**Thoughts:** Solved some problems.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1426928349721415692)
+
+### Day 67: Aug 17, 2021
+
+
+**Today's Progress**: Practiced html and css in codepen
+
+**Thoughts:** Practiced my skills in codepen.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1427646623925080075)
+
+### Day 68: Aug 19, 2021
+
+
+**Today's Progress**: Built a small website for guessing numbers using html ,css and javascript
+
+**Thoughts:** Refreshed the js I learnt.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1428378765172768774)
+
+
+### Day 69: Aug 21, 2021
+
+
+**Today's Progress**: Practiced html and css in codepen
+
+**Thoughts:** Practiced my skills in codepen.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1429104739271122946)
+
+### Day 70: Aug 23, 2021
+
+
+**Today's Progress**: Solved few problems in codechef 
+
+**Thoughts:** Solved some problems.
+
+**Link to work:** [my tweet](https://twitter.com/Ironman08032722/status/1429828765450838019)
+
 
 
